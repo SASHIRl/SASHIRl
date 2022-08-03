@@ -5,7 +5,7 @@
 👾Análise e Desenvolvimento de Sistemas👾
 📚IFSP - Instituto Federal de São Paulo (Câmpus São Paulo)💻
 
-- 🔭 Hoje trabalho como Service Desk
+- 🔭 Trabalho como Service Desk
 - 🌱 Atualmente estou estudando o Spring Framework, Gherkin/Cucumber, Estatística/probabilidade e Node.js.
 - ✉️ marquesashiri@gmail.com
 
